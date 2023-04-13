@@ -1,0 +1,13 @@
+.ocultar{
+    visibility:hidden;
+}
+
+li:hover > *{
+    visibility: visible;
+}
+
+.container{
+    box-shadow: 100px 100px 100px 100px;
+    border: 3px solid red;
+
+}
